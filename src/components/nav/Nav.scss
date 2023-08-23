@@ -1,0 +1,11 @@
+h3 {
+    span {
+        font-family: 'Kristi', cursive;
+        color: rgba(19, 15, 73, .07);
+        span {
+            transform: translate(-50%, -50%);
+            font-family: 'Inter', sans-serif;
+            color: var(--darkTextColor);
+        }
+    }
+}
