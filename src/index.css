@@ -4,6 +4,7 @@
 @tailwind utilities;
 :root{
     --darkTextColor:#130F49;
+    --lightMaincolor:#A5A6FF;
 }
 *{
     margin: 0;
